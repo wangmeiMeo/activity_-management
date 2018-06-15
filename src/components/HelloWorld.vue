@@ -83,7 +83,4 @@ a {
 .inp{
   margin-top: 40px;
 }
-.el-input{
-  margin-bottom: 40px;
-}
 </style>
