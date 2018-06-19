@@ -33,6 +33,7 @@
 
 <script>
 export default {
+  name:"activity",
   data() {
     return {
       form: {
